@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meghorikawa
 - 🇺🇸 (native) , 🇯🇵 (C1/2) , 🇩🇪 (B1)
-- :green_book: I’m currently studying Computational Linguistics, German 
+- :green_book: I’m currently studying Computational Linguistics
 
 
 
