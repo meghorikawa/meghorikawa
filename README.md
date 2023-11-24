@@ -2,9 +2,9 @@
 - 🇺🇸 (native) , 🇯🇵 (C1/2) , 🇩🇪 (B1)
 - :green_book: I’m currently studying Computational Linguistics, my topics of interest include:
 
-- ⭐ICALL (Intelligent Computer Assisted Language Learning)
-- ⭐Text Classification (Sentiment and Affect Analysis)
-- ⭐Practical Applications of NLP technologies
+      - ⭐ICALL (Intelligent Computer Assisted Language Learning)
+      - ⭐Text Classification (Sentiment and Affect Analysis)
+      - ⭐Practical Applications of NLP technologies
 
 
 
