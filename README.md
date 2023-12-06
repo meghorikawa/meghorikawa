@@ -5,8 +5,7 @@
 
 My topics of interest include:
    - ICALL (Intelligent Computer Assisted Language Learning)
-   - Text Classification (Sentiment and Affect Analysis)
-   - Practical Applications of NLP technologies
+   - Text Classification (Sentiment / Affect Analysis; Error Classification)
 
 
 
