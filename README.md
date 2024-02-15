@@ -1,12 +1,13 @@
 👋 Hi, I’m @meghorikawa
 🇺🇸 (native) , 🇯🇵 (C1/2) , 🇩🇪 (B1)
-:green_book: I’m currently studying Computational Linguistics
+📗 I'm currently studying Computational Linguistics
 
 
 My topics of interest include:
+   - Challenges in processing Japanese text.
    - ICALL (Intelligent Computer Assisted Language Learning)
    - Text Classification (Sentiment / Affect Analysis; Error Classification)
-   - Reinforcement Learning
+   - Reinforcement Learning 
 
 
 
