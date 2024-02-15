@@ -6,6 +6,7 @@
 My topics of interest include:
    - ICALL (Intelligent Computer Assisted Language Learning)
    - Text Classification (Sentiment / Affect Analysis; Error Classification)
+   - Reinforcement Learning
 
 
 
