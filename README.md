@@ -5,10 +5,10 @@
 
 
 My topics of interest include:
-   - Challenges in processing Japanese text.
    - ICALL (Intelligent Computer Assisted Language Learning)
    - Text Classification (Sentiment / Affect Analysis; Error Classification)
-   - Reinforcement Learning 
+   - Reinforcement Learning
+   - Applications of LLMs
 
 
 
