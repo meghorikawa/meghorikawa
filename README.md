@@ -1,13 +1,37 @@
-👋 Hi, I’m @meghorikawa  
-🇺🇸 (native) , 🇯🇵 (C1/2) , 🇩🇪 (B1)  
-📗 I'm currently studying Computational Linguistics  
+# 👋 Hi, I’m Megan めぐ (@meghorikawa)
 
+- 🌐 Multilingual: 🇺🇸 English (native) | 🇯🇵 Japanese (C1/C2) | 🇩🇪 German (B1)  
+- 🎓 Computational Linguistics (M.A.) | NLP & Data Science (expected 9/2025) 
+- 💡 Areas of interest:  
+  - ICALL (Intelligent Computer-Assisted Language Learning)  
+  - Text Classification (sentiment, affect, learner error analysis)  
+  - Affordances & applications of Large Language Models  
+  - Educational Technology & Task-Based Learning  
 
+## 📖 Master's Thesis
+**Modeling L2 Japanese Proficiency with Linguistic Complexity Measures and Criterial Features**  
+- Investigated how linguistic complexity measures and criterial features can model Japanese as a Second Language (L2) proficiency using the **I-JAS corpus**.  
+- Applied an **Explainable Boosting Machine (EBM)** for interpretable classification
+  
+## 🔭 Projects
+- **LLM Evaluation for Task-Based Language Learning Chatbots**  
+  Analyzed the integration of LLMs into a rule-based chatbot to support smoother learner interactions.  
+- **ARES (AI-Assisted Extension for Grammar Exercises)**  
+  Enhancing grammar learning with AI-driven feedback aligned with pedagogical principles.  
 
-My topics of interest include:
-   - ICALL (Intelligent Computer Assisted Language Learning)
-   - Text Classification (Sentiment / Affect Analysis; Error Classification)
-   - Affordances and Applications of LLMs
+## 📄 Publication
+- *Tue-JMS at SemEval-2025 Task 11: KReLax: An Ensemble-Based Approach for Multilingual Emotion Detection and Addressing Data Imbalance*  
+  [ACL Anthology (2025)](https://aclanthology.org/)  
+
+## 🛠️ Skills
+- **Programming & Tools**: Python, Git, LaTeX, Postman (APIs), Docker, Java (Servlets), Data Annotation Platforms  
+- **Machine Learning & NLP**: BERT models, Explainable AI (EBM), Multilingual Classification, Educational NLP  
+
+---
+
+📫 Let’s connect:  
+- LinkedIn: [your link here]  
+- Personal Website/Portfolio: [your link if you have one]  
 
 
 
