@@ -2,7 +2,8 @@
 
 - 🌐 Multilingual: 🇺🇸 English (native) | 🇯🇵 Japanese (C1/C2) | 🇩🇪 German (B1)  
 - 🎓 Computational Linguistics (M.A.) | NLP & Data Science (expected 9/2025) 
-- 💡 Areas of interest:  
+- 💡 Research Areas of interest:  
+  - Linguistic Complexity
   - ICALL (Intelligent Computer-Assisted Language Learning)  
   - Text Classification (sentiment, affect, learner error analysis)  
   - Affordances & applications of Large Language Models  
