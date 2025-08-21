@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Megan めぐ (@meghorikawa)
+# 👋 Hi, I’m Megan (@meghorikawa)
 
 - 🌐 Multilingual: 🇺🇸 English (native) | 🇯🇵 Japanese (C1/C2) | 🇩🇪 German (B1)  
 - 🎓 Computational Linguistics (M.A.) | NLP & Data Science (expected 9/2025) 
