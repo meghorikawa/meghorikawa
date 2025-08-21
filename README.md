@@ -21,7 +21,7 @@
 
 ## 📄 Publication
 - *Tue-JMS at SemEval-2025 Task 11: KReLax: An Ensemble-Based Approach for Multilingual Emotion Detection and Addressing Data Imbalance*  
-  [ACL Anthology (2025)](https://aclanthology.org/)  
+  [ACL Anthology (2025)]([https://aclanthology.org/](https://aclanthology.org/2025.semeval-1.113/))  
 
 ## 🛠️ Skills
 - **Programming & Tools**: Python, Git, LaTeX, Postman (APIs), Docker, Java (Servlets), Data Annotation Platforms  
