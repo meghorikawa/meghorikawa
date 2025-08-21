@@ -27,12 +27,6 @@
 - **Programming & Tools**: Python, Git, LaTeX, Postman (APIs), Docker, Java (Servlets), Data Annotation Platforms  
 - **Machine Learning & NLP**: BERT models, Explainable AI (EBM), Multilingual Classification, Educational NLP  
 
----
-
-📫 Let’s connect:  
-- LinkedIn: [your link here]  
-- Personal Website/Portfolio: [your link if you have one]  
-
 
 
 <!---
