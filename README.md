@@ -15,14 +15,14 @@
 - Applied an **Explainable Boosting Machine (EBM)** for interpretable classification
   
 ## 🔭 Projects
-- **KReLax: Multilingual Emotion Detection(SemEval-2025)**
+- **KReLax: Multilingual Emotion Detection(SemEval-2025)**  
   Co-authored a published paper proposing an ensemble-based approach to multilingual emotion detection and addressing data imbalance.
     [ACL Anthology (2025)](https://aclanthology.org/2025.semeval-1.113/)
 - **ARES (AI-Assisted Extension for Grammar Exercises)**  
   Enhancing grammar learning with AI-driven feedback aligned with pedagogical principles.
 - **LLM Evaluation for Task-Based Language Learning Chatbots**  
   Analyzed the integration of LLMs into a rule-based chatbot to support smoother learner interactions.
-- **Lingustic benchmark performance: Testing Effects of Reinforcement Learning**
+- **Lingustic benchmark performance: Testing Effects of Reinforcement Learning**  
   Explored how reinforcement learning fine-tuning (RLHF) shifts LLM performance on syntax, semantics, and pragmatics benchmarks compared to base models. 
 
 
