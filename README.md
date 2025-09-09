@@ -17,7 +17,7 @@
 ## 🔭 Projects
 - **KReLax: Multilingual Emotion Detection(SemEval-2025)**
   Co-authored a published paper proposing an ensemble-based approach to multilingual emotion detection and addressing data imbalance.
-    [ACL Anthology (2025)]([https://aclanthology.org/](https://aclanthology.org/2025.semeval-1.113/))  
+    [ACL Anthology (2025)](https://aclanthology.org/2025.semeval-1.113/)
 - **ARES (AI-Assisted Extension for Grammar Exercises)**  
   Enhancing grammar learning with AI-driven feedback aligned with pedagogical principles.
 - **LLM Evaluation for Task-Based Language Learning Chatbots**  
