@@ -21,7 +21,7 @@
 - **ARES (AI-Assisted Extension for Grammar Exercises)**  
   Enhancing grammar learning with AI-driven exercise generation aligned with pedagogical principles.
 - **LLM Evaluation for Task-Based Language Learning Chatbots**  
-  Analyzed the integration of LLMs into a rule-based chatbot to support smoother learner interactions.
+  Analyzed the integration of LLMs into a rule-based chatbot to support smoother learner interactions within a language learning app.
 - **Lingustic benchmark performance: Testing Effects of Reinforcement Learning**  
   Explored how reinforcement learning fine-tuning (RLHF) shifts LLM performance on syntax, semantics, and pragmatics benchmarks compared to base models. 
 
