@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Megan (@meghorikawa)
 
 - 🌐 Multilingual: 🇺🇸 English (native) | 🇯🇵 Japanese (C1/C2) | 🇩🇪 German (B1)  
-- 🎓 Computational Linguistics (M.A.) | NLP & Data Science (expected 9/2025) 
+- 🎓 Computational Linguistics (M.A.) (expected 9/2025) 
 - 💡 Research Areas of interest:  
   - Linguistic Complexity
   - ICALL (Intelligent Computer-Assisted Language Learning)  
